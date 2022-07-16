@@ -1,0 +1,247 @@
+/* https://github.com/ardacar/ardacar.github.io */
+
+*, ::before, ::after {
+	box-sizing: inherit;
+}
+
+html {
+	font-family: 'Inter', sans-serif !important;
+	font-size: 16px;
+	font-weight: 700;
+	box-sizing: border-box;
+	-webkit-font-smoothing: antialiased;
+}
+
+html, body, div, h1, h2, p, a, img {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+.imjgnX {
+	overflow-wrap: break-word;
+	word-break: break-word;
+	hyphens: auto;
+	white-space: normal;
+	background: none;
+	color: inherit;
+	transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99) 0s, border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99) 0s, transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99) 0s, background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99) 0s;
+	min-height: 56px;
+}
+
+.ldGKnQ {
+	margin: 0px;
+	border: none;
+	font-family: inherit;
+	font-weight: inherit;
+	font-size: inherit;
+	text-align: center;
+	cursor: pointer;
+	background: none;
+	text-decoration: none;
+	display: flex;
+	-webkit-box-align: center;
+	align-items: center;
+	-webkit-box-pack: center;
+	justify-content: center;
+	height: auto;
+	position: relative;
+	padding: 16px 20px;
+	width: 100%;
+	appearance: none;
+	box-sizing: border-box;
+	vertical-align: middle;
+}
+
+.rsIfq {
+	position: relative;
+	hyphens: none;
+}
+
+.CczVW {
+	padding: 0px;
+	margin: 0px;
+	line-height: 1.5;
+	width: 100%;
+	font-weight: 500;
+	font-size: 14px;
+}
+
+.eaMbDs {
+	z-index: 0;
+	overflow: hidden;
+	margin-bottom: 16px;
+	border: none;
+	background-color: #222222;
+	color: rgb(255, 255, 255);
+	transition: transform 0.15s cubic-bezier(0, 0.2, 0.5, 3) 0s;
+}
+
+.hBNyQA {
+	position: relative;
+	height: auto;
+	border-radius: 14px;
+}
+
+.pkAuV {
+	position: relative;
+}
+
+.eZNKTD {
+	margin-bottom: 16px;
+}
+
+.bhdLno {
+	display: flex;
+}
+
+.jgGrsq {
+	-webkit-box-align: center;
+	align-items: center;
+	flex-direction: column;
+	margin-top: 12px;
+	margin-bottom: 32px;
+}
+
+.flTywP {
+	border-radius: 50%;
+	width: 96px;
+	height: 96px;
+	display: block;
+	object-fit: contain;
+	object-position: initial;
+	filter: none;
+}
+
+.jvyDlw {
+	display: grid;
+	grid-template-columns: 1fr auto 1fr;
+	-webkit-box-align: center;
+	align-items: center;
+}
+
+.llgrqs {
+	margin-left: 12px;
+	margin-right: 12px;
+	max-width: 100%;
+}
+
+.eiGOpF {
+	grid-column-start: 2;
+}
+
+.fgRbfR {
+	margin: 0px;
+	color: #ffffff;
+	font-size: 16px;
+	line-height: 1.5;
+	font-weight: 500;
+	text-overflow: ellipsis;
+	max-width: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+.hTuoxC {
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.jbYlPX {
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+	line-height: 1.5;
+	font-size: 14px;
+	color: #ffffff99;
+	font-weight: 500;
+}
+
+.gAZQBi {
+	position: fixed;
+	inset: 0px;
+	z-index: -1;
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: #000000;
+}
+
+.LyLIy {
+	margin: 0px auto;
+	height: 100%;
+	width: 100%;
+	max-width: 680px;
+	padding-bottom: 80px;
+}
+
+.bhdLno {
+	display: flex;
+}
+
+.djBrvA {
+	padding-bottom: 16px;
+}
+
+.bhdLno {
+	display: flex;
+}
+
+.cUWRuD {
+	flex-wrap: wrap;
+	-webkit-box-pack: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	align-items: center;
+}
+
+.saVRV {
+	transition: transform 0s cubic-bezier(0.23, 1, 0.32, 1) 0s;
+	z-index: 0;
+}
+
+.gsOJfM {
+	padding-bottom: 12px;
+	padding-left: 8px;
+	padding-right: 8px;
+	color: inherit;
+	text-decoration: underline;
+}
+
+.saVRV svg {
+	pointer-events: none;
+}
+
+.fzSGPN {
+	fill: #ffffff;
+	width: 32px;
+	height: 32px;
+}
+
+.bhdLno {
+	display: flex;
+}
+
+.bcrzgk {
+	flex: 1 1 0%;
+	flex-direction: column;
+	-webkit-box-pack: justify;
+	justify-content: space-between;
+	padding: 24px 12px;
+	height: 100%;
+	width: 100%;
+}
+
+.bhdLno {
+	display: flex;
+}
+
+.saVRV:hover {
+    transform: scale(1.075);
+}
+
+.eaMbDs:hover {
+    transform: scale(1.02);
+}
